@@ -1,5 +1,10 @@
 Here's a list of everyone's name. Please add yours below.
 
 Ofri Wolfus
+<<<<<<< HEAD
 Arkadi Yoskovitz
 Roy
+=======
+Lesson Example
+Roy!
+>>>>>>> new change to name
